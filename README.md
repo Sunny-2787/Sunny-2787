@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I am Sunny
+#### Undergraduate Student
+![Undergraduate Student](https://raw.githubusercontent.com/Sunny-2787/Sunny-2787/refs/heads/main/github-header-image.png)
 
-<!--
-**Sunny-2787/Sunny-2787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying in CSE at Leading University.
 
-Here are some ideas to get you started:
+Skills:  HTML /  CSS  /  JS / C++ / Python / MySQL / PostgreSQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Django Project 
+- 🌱 I’m currently learning Django  
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sunny-2787)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-2787)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny-2787&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sunny-2787)  
+
